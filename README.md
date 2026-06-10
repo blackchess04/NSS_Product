@@ -1,4 +1,4 @@
-# NagarSeva (नगरसेवा)
+# NagarSeva
 
 > **Civic Issue Reporting & SLA Escalation Tracking System**  
 > *A Product Innovation Project Compliant with the India DPDP Act 2023.*
